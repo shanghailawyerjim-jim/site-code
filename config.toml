@@ -11,7 +11,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "Law-Jin"
+title = "上海金宁律师"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -239,7 +239,7 @@ enableEmoji = true
     # [UA-XXXXXXXX-X] 谷歌分析代号
     # googleAnalytics = ""
     # 版权描述，仅仅用于 SEO
-    copyright = "borer"
+    copyright = "金宁"
     # 菜单配置
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
@@ -293,9 +293,9 @@ enableEmoji = true
         weight = 6
     [languages.zh-cn.params]
       # 网站描述
-      description = "borer个人分享"
+      description = "金宁个人分享"
       # 网站关键词
-      keywords = ["borer", "site"]
+      keywords = ["金宁", "site"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -343,9 +343,9 @@ enableEmoji = true
           # 主页显示头像的 URL
           avatarURL = "/logo.png"
           # 主页显示的网站标题 (支持 HTML 格式)
-          title = "law-jin"
+          title = "受人之托，忠人之事"
           # 主页显示的网站副标题
-          subtitle = "jin-law"
+          #subtitle = "jin-law"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
@@ -657,7 +657,7 @@ enableEmoji = true
       logo = "/logo.png"
       # title name
       # 标题名称
-      name = "Law-Jin"
+      name = "上海金宁律师"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       # pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
@@ -674,7 +674,7 @@ enableEmoji = true
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = 'less is more!'
+    #custom = 'less is more!'
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = false
@@ -945,7 +945,7 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "borer"
+        name = "金宁"
         logoUrl = "/logo.png"
 
   # TypeIt config
@@ -1073,9 +1073,9 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "borer"
-  email = "janu.yieg.borer@gmail.com"
-  link = "https://github.com/JanU-YieG"
+  name = "金宁"
+  email = "chineselawyerjim@163.com"
+  link = "https://github.com/shanghailawyerjim-jim"
 
 # Sitemap config
 # 网站地图配置
