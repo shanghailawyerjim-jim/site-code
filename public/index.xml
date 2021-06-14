@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Law-Jin</title>
+        <link>https://janu-yieg.github.io/</link>
+        <description>borer个人分享</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>janu.yieg.borer@gmail.com (borer)</managingEditor>
+            <webMaster>janu.yieg.borer@gmail.com (borer)</webMaster><copyright>borer</copyright>
+            <atom:link href="https://janu-yieg.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
