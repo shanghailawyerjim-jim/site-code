@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>上海金宁律师</title>
-        <link>https://janu-yieg.github.io/</link>
-        <description>金宁个人分享</description>
+        <title>所有文章 - 上海金宁律师</title>
+        <link>https://janu-yieg.github.io/posts/</link>
+        <description>所有文章 | 上海金宁律师</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chineselawyerjim@163.com (金宁)</managingEditor>
-            <webMaster>chineselawyerjim@163.com (金宁)</webMaster><copyright>金宁</copyright><lastBuildDate>Mon, 14 Jun 2021 18:27:46 &#43;0800</lastBuildDate>
-            <atom:link href="https://janu-yieg.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>chineselawyerjim@163.com (金宁)</webMaster><copyright>金宁</copyright><lastBuildDate>Mon, 14 Jun 2021 18:27:46 &#43;0800</lastBuildDate><atom:link href="https://janu-yieg.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>民法</title>
     <link>https://janu-yieg.github.io/ninfa/</link>
     <pubDate>Mon, 14 Jun 2021 18:27:46 &#43;0800</pubDate>
