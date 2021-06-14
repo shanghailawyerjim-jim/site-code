@@ -288,7 +288,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/shanghailawyerjim-jim"
         title = "GitHub"
         weight = 6
     [languages.zh-cn.params]
@@ -341,7 +341,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/avatar.png"
+          avatarURL = "/logo.png"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = "law-jin"
           # 主页显示的网站副标题
@@ -359,7 +359,7 @@ enableEmoji = true
           paginate = 6
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
+        #GitHub = "xxxx"
         Linkedin = ""
         Twitter = ""
         Instagram = ""
@@ -397,13 +397,13 @@ enableEmoji = true
         Hackernews = ""
         Kickstarter = ""
         Patreon = ""
-        Steam = "xxxx"
+        #Steam = "xxxx"
         Twitch = ""
         Strava = ""
         Skype = ""
         Whatsapp = ""
-        Zhihu = "xxxx"
-        Douban = "xxxx"
+        Zhihu = "fa-hai-bu-dong-ai-94-1"
+        #Douban = "xxxx"
         Angellist = ""
         Slidershare = ""
         Jsfiddle = ""
@@ -416,13 +416,13 @@ enableEmoji = true
         Researchgate = ""
         Mastodon = ""
         Thingiverse = ""
-        Devto = "xxxx"
+        #Devto = "xxxx"
         Gitea = ""
         XMPP = ""
         Matrix = ""
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        RSS = true
+        Bilibili = "646594216"
+        Email = "chineselawyerjim@163.com"
+        #RSS = true
 
   # [languages.fr]
     # weight = 3
